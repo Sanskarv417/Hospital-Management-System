@@ -1,0 +1,87 @@
+.upper-container {
+  background-color: #69DADB;
+  width: 100%;
+  min-height: 70px;
+  height: auto;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+body {
+  margin: 0;
+  
+  
+}
+
+.hms {
+  margin-top: 15px;
+  margin-left: 5px;
+  display: inline-block;
+  color: white;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.links {
+  margin-top: 20px;
+  float: right;
+  color: white;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.link-admin {
+  color: #FF0000;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+}
+
+.link-patient {
+  color: #FF0000;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+}
+
+.link-doctor {
+  color: #FF0000;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  padding: 5px;
+}
+
+.middle-container {
+  margin-top: 100px;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.img-doctor {
+  width: 200px;
+  height: 200px;
+}
+
+.img-patient {
+  width: 200px;
+  height: 200px;
+}
+
+.img-mi {
+  width: 200px;
+  height: 200px;
+}
+
+td {
+  background-color: #B2F9FC;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
